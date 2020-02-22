@@ -20,7 +20,9 @@ B: Type here
 
 5. Run jupyter notebook & plot away! 
 
-Don't forget the Data Circles colors. You can import color options from colors.py. 
+A: To move your data into the repo, make a directory called 'data'. This is already included in the .gitignore file, so anything placed into this folder will automatically be ignored by GitHub. This is because GitHub is not designed for data storage, and doesn't allow files above 100 MB. We suggest using data available online, so that you can include instructions for others to access the data needed to reproduce your plots. 
+
+B: Don't forget the Data Circles colors. You can import color options from colors.py. 
 
 To use the ready-made cmap, add this code to your notebook:
 ```python
