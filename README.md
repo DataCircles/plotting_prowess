@@ -6,3 +6,5 @@ We welcome contributions from any of our members. If you are interested in shari
 If you are new to the team, checkout [contributors.md](https://github.com/DataCircles/plotting_prowess/blob/master/contributors.md) for instructions. 
 
 ![](images/plot.png) ![](images/plot2.png)
+![](images/cmap.png) ![](images/plotty_training.png)
+![](images/subplots.png) ![](images/dc_hearts.png)
