@@ -40,8 +40,9 @@ dark_colors_dict = cc.dct(theme='dark')
 medium_colors_dict = cc.dct(theme='medium')
 light_colors_dict = cc.dct(theme='light')
 ```
+6. When your plot is complete, please save it as a PNG & add it to images folder in your branch of the repo. In a jupyter notebook, you can right click on the plot and save it. 
 
-6. When you are ready to share your work, commit changes to your branch. 
+7. When you are ready to share your work, commit changes to your branch. 
 
 Double check that you are in your branch. 
 ```git branch```
@@ -55,6 +56,16 @@ Commit changes to your branch.
 Push changes to your remote branch (on GitHub).
 ```git push```
 
-7. Open the Repo on GitHub : https://github.com/DataCircles/plotting_prowess.
+8. Open the Repo on GitHub : https://github.com/DataCircles/plotting_prowess.
 
+9. You should see your branch highlighted as a "recently pushed branch" (you may need to refresh page). Click the green button for "Compare & pull request". 
+![alt text](images/contrib3.png "Logo Title Text 1")
 
+10. The next page should automatically populate this information, but it is worth checking three points. A: You should see "compare: <your name>". B: You should see "Able to merge". C: You should see your commit message; if needed, add details to explain the changes you're commiting.
+![alt text](images/contrib4.png "Logo Title Text 1")
+
+11. Click the gear icon by "Reviewers". You will be able to type in or click on other users. Please select *kellystroh* or *jendefig*. 
+![alt text](images/contrib5.png "Logo Title Text 1")
+![alt text](images/contrib6.png "Logo Title Text 1")
+
+12. Click "Create pull request". One of us will review and approve your changes as soon as possible. 
