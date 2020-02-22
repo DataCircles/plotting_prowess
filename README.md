@@ -6,6 +6,6 @@ We welcome contributions from any of our members. If you are interested in shari
 If you are new to the team, checkout [contributors.md](https://github.com/DataCircles/plotting_prowess/blob/master/contributors.md) for instructions. 
 
 <p float="left">
-  <img src="images/plot1.png" width="300" />
-  <img src="images/plot3.png" width="300" /> 
+  <img src="images/plot1.png" width="450" />
+  <img src="images/plot3.png" width="450" /> 
 </p>
