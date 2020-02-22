@@ -5,4 +5,4 @@ We welcome contributions from any of our members. If you are interested in shari
 
 If you are new to the team, checkout [contributors.md](https://github.com/DataCircles/plotting_prowess/blob/master/contributors.md) for instructions. 
 
-![alt-text-1](plot.png) ![alt-text-2](plot2.png)
+![](images/plot.png) ![](images/plot2.png)
